@@ -4,6 +4,8 @@
 
 ![Demo gif of portfolio template](demo.gif)
 
+![screenshot](screenshot.png)
+
 
 ## How to Start
 1. Clone this repo: `git clone https://github.com/ElonMusk2002/react-portfolio-template`
